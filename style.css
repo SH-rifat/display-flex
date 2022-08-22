@@ -1,0 +1,23 @@
+.main{
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sub-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.sub-2{
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+}
+.sub-3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
