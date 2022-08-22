@@ -21,3 +21,27 @@
     height: 100px;
     background-color: blue;
 }
+.main-1{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.test-1{
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+}
+.test-2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+.test-3{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+}
